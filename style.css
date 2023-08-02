@@ -3,6 +3,10 @@
     text-align: center;
 }
 
+.site {
+    font-size: 10px;
+}
+
 .meme-generator img {
     height: 430px;
     object-fit: cover;
@@ -30,5 +34,5 @@
 
 .meme-generator .meme-author {
     margin: 8px;
-    
+
 }
